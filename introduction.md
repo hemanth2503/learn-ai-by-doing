@@ -42,15 +42,21 @@ Narrow AI is already changing the world: Most tools we use every day — like re
 
 ...
 Machine learning-->Deep Learning-->Generative AI
-Machine Learning is a broad field where systems learn from data, Deep Learning is a subset using neural networks for complex tasks, and Generative AI is a further subset that creates new content like text, images.
+
+Machine Learning is a broad field where systems learn from data, 
+Deep Learning is a subset using neural networks for complex tasks, and 
+Generative AI is a further subset that creates new content like text, images.
 
 multi-modal: capabilties of doing all code, image, audio, etc
+
 Gen AI, Examples: 
 				1. text based: ChatGPT, Grok, Gemini, Claude
 				2. image based: midjourney
 ...
+
 User experience (UX):
 Refers to the overall experience a user has when interacting with a product or service.
+
 ...
 
 ...
